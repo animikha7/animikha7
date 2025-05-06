@@ -1,4 +1,5 @@
-![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Animikha!;Welcome+to+my+GitHub+profile!;I+love+building+cool+things+with+code+%F0%9F%92%BB)
+![Welcome Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Animikha!;Welcome+to+my+GitHub+profile!;I+love+building+cool+things+with+code)
+
 
 ---
 
