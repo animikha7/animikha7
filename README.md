@@ -9,7 +9,7 @@
 - 💻 Passionate about Web Dev, ML & AI
 - 🛠️ Currently working with React, Flask, OpenCV
 - 🌱 Learning MediaPipe and Advanced ML
-- 📫 Contact: animikha@example.com (replace with your real one)
+- 📫 Contact: animikhabasak@gmail.com 
 
 ---
 
