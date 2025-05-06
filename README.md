@@ -59,14 +59,14 @@
 
 - 🎯 A portfolio website with animations and responsive UI
 - 🤖 ML-based face detection and Bell's Palsy detection system
-- 🌦️ Weather dashboard using OpenWeatherMap API
+- ☀️ Weather dashboard using OpenWeatherMap API
 
 ---
 
 ## 🔥 Contributions
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=animikha7&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=animikha7&theme=react-dark)
 
 ---
 
-> Made with ❤️ by Animikha
+> Made with ❤️ by [Animikha](https://github.com/animikha7)
